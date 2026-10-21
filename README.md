@@ -58,6 +58,6 @@ SAMPLE OUTPUT
 
 RESULTS
 
-Strict val iou : 0.7093 , relaxed val iou : 0.93  , strict test iou : 0.7077, relaxed test iou : 0.9190 .
+Strict val iou : 0.7093 , relaxed val iou : 0.9242  , strict test iou : 0.7077, relaxed test iou : 0.9190 .
 
 
