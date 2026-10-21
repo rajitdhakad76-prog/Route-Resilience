@@ -15,6 +15,10 @@ Topological Disconnection ;
 Lack of Actionable Resilience Modeling ; 
 Geospatial Processing Overhead.
 
+DATASET
+
+Deepglobe road extraction(.png/.jpg)
+
 
 PIPELINE
 
