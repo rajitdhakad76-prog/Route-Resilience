@@ -15,6 +15,9 @@ Topological Disconnection ;
 Lack of Actionable Resilience Modeling ; 
 Geospatial Processing Overhead.
 
+
+
+
 DATASET
 
 Deepglobe road extraction(.png/.jpg)
@@ -36,12 +39,22 @@ Data Ingestion: Rapidly ingests lightweight .jpg imagery (DeepGlobe dataset) and
 
 MODELS & LIBRARIES USED
 
-MiT-B2(Mix Transformer B2 Backbone) , CBAM (Convolutional Block Attention Module) , Differential clDice , pytorch , openCV , scikit & scipy , NetworkX , numpy , matplotlib , pandas.
+MiT-B2(Mix Transformer B2 Backbone) , 
+CBAM (Convolutional Block Attention Module) , Differential clDice , pytorch , openCV , scikit & scipy , NetworkX , numpy , matplotlib , pandas.
+
 
 
 KEY FINDINGS 
 
 Significant Topological Healing Gains: The collinear bearing-constrained Disjoint Set Union (DSU-MST) algorithm successfully bridged shadow-induced road breaks up to 55 pixels wide, achieving up to a +90.3% increase in the Largest Connected Component (LCC) on blind test tiles ; automated flood inundation simulations demonstrated detour penalties inflating travel distances up to 1.60x when high-centrality intersections were submerged ; 
+
+
+SAMPLE OUTPUT
+
+<img width="512" height="512" alt="206_sat_dashboard" src="https://github.com/user-attachments/assets/c640113a-d8f7-491c-9b03-81f561724126" />
+<img width="256" height="256" alt="206_sat_mask" src="https://github.com/user-attachments/assets/0733ae4c-7708-4154-af81-a36f9ca7dc0e" />
+
+
 
 RESULTS
 
