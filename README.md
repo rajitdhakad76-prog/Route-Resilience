@@ -10,10 +10,10 @@ Our framework uses a context-aware MiT-B2 Transformer to accurately extract road
 
 PROBLEM STATEMENT
 
-Spectral Blindness & Occlusion
-Topological Disconnection
-Lack of Actionable Resilience Modeling
-Geospatial Processing Overhead
+Spectral Blindness & Occlusion ; 
+Topological Disconnection ; 
+Lack of Actionable Resilience Modeling ; 
+Geospatial Processing Overhead.
 
 
 PIPELINE
